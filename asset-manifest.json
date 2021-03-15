@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/web1/static/css/main.896e2f72.chunk.css",
+    "main.js": "/web1/static/js/main.7c75f1dc.chunk.js",
+    "main.js.map": "/web1/static/js/main.7c75f1dc.chunk.js.map",
+    "runtime-main.js": "/web1/static/js/runtime-main.82dd2fa2.js",
+    "runtime-main.js.map": "/web1/static/js/runtime-main.82dd2fa2.js.map",
+    "static/js/2.822c637b.chunk.js": "/web1/static/js/2.822c637b.chunk.js",
+    "static/js/2.822c637b.chunk.js.map": "/web1/static/js/2.822c637b.chunk.js.map",
+    "index.html": "/web1/index.html",
+    "static/css/main.896e2f72.chunk.css.map": "/web1/static/css/main.896e2f72.chunk.css.map",
+    "static/js/2.822c637b.chunk.js.LICENSE.txt": "/web1/static/js/2.822c637b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/web1/static/media/background.920bf09b.jpg",
+    "static/media/pepe_king.d4908e11.jpg": "/web1/static/media/pepe_king.d4908e11.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82dd2fa2.js",
+    "static/js/2.822c637b.chunk.js",
+    "static/css/main.896e2f72.chunk.css",
+    "static/js/main.7c75f1dc.chunk.js"
+  ]
+}
